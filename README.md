@@ -16,8 +16,6 @@ An offline-first Android application that uses on-device AI to provide real-time
   - [Installation & Setup](#installation--setup)
 - [Project Structure](#-project-structure)
 - [AI/ML Models](#-aiml-models)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
