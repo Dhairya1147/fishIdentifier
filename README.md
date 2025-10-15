@@ -46,7 +46,7 @@ Here's a look at the AquaLens AI application in action.
 | **Main Screen** | **Upload Image Screen** |
 | ![Screenshot 3](SLIDE-3.jpg) | ![Screenshot 4](SLIDE-4.jpg) |
 | **Fish/Species Info Screen** | | **Demo Gif** |
-| ![Screenshot 5](SLIDE-5.jpg) | | ![Screenshot 4](DeepFish.gif) |
+| ![Screenshot 5](SLIDE-5.jpg) | | ![Screenshot 6](DeepFish.gif) |
 
 ---
 
