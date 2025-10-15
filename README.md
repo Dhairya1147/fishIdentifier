@@ -36,6 +36,20 @@ A set of cards summarizing the core functionalities of the application.
 
 ---
 
+## 📸 App Preview
+
+Here's a look at the AquaLens AI application in action.
+
+| Main Screen / Live Analysis | Catch Summary Report |
+| :-------------------------: | :------------------: |
+| ![Screenshot 1](PASTE_YOUR_SCREENSHOT_1_LINK_HERE) | ![Screenshot 2](PASTE_YOUR_SCREENSHOT_2_LINK_HERE) |
+| **Catch History** | **Detailed Log Entry** |
+| ![Screenshot 3](PASTE_YOUR_SCREENSHOT_3_LINK_HERE) | ![Screenshot 4](PASTE_YOUR_SCREENSHOT_4_LINK_HERE) |
+| **Settings / About** | |
+| ![Screenshot 5](PASTE_YOUR_SCREENSHOT_5_LINK_HERE) | |
+
+---
+
 ## 🚀 Unique Features
 
 These are planned extensions to make the app even more powerful:
