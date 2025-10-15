@@ -40,13 +40,11 @@ A set of cards summarizing the core functionalities of the application.
 
 Here's a look at the AquaLens AI application in action.
 
-| **Intro Screen & Logo** | **Login Page** |
-| :-------------------------: | :------------------: |
-| <img src="SLIDE-1.jpg" width="200"> | <img src="SLIDE-2.jpg" width="200"> |
-| **Main Screen** | **Upload Image Screen** |
-| <img src="SLIDE-3.jpg" width="200"> | <img src="SLIDE-4.jpg" width="200"> |
-| **Fish/Species Info Screen** | **App Demo (GIF)** |
-| <img src="SLIDE-5.jpg" width="200"> | <img src="DeepFish.gif"> |
+| Intro Screen & Logo | Login Page | Main Screen | Upload Image Screen |
+| :---: | :---: | :---: | :---: |
+| <img src="SLIDE-1.jpg" width="200"> | <img src="SLIDE-2.jpg" width="200"> | <img src="SLIDE-3.jpg" width="200"> | <img src="SLIDE-4.jpg" width="200"> |
+| **Fish/Species Info Screen** | **App Demo (GIF)** | | |
+| <img src="SLIDE-5.jpg" width="200"> | <img src="DeepFish.gif" width="200"> | | |
 
 ---
 
