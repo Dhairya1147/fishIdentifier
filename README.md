@@ -40,13 +40,13 @@ A set of cards summarizing the core functionalities of the application.
 
 Here's a look at the AquaLens AI application in action.
 
-| Main Screen / Live Analysis | Catch Summary Report |
+| **Intro Screen & Logo** | **Login Page** |
 | :-------------------------: | :------------------: |
-| ![Screenshot 1](PASTE_YOUR_SCREENSHOT_1_LINK_HERE) | ![Screenshot 2](PASTE_YOUR_SCREENSHOT_2_LINK_HERE) |
-| **Catch History** | **Detailed Log Entry** |
-| ![Screenshot 3](PASTE_YOUR_SCREENSHOT_3_LINK_HERE) | ![Screenshot 4](PASTE_YOUR_SCREENSHOT_4_LINK_HERE) |
-| **Settings / About** | |
-| ![Screenshot 5](PASTE_YOUR_SCREENSHOT_5_LINK_HERE) | |
+| ![Screenshot 1](SLIDE-1.jpg) | ![Screenshot 2](SLIDE-2.jpg) |
+| **Main Screen** | **Upload Image Screen** |
+| ![Screenshot 3](SLIDE-3.jpg) | ![Screenshot 4](SLIDE-4.jpg) |
+| **Fish/Species Info Screen** | |
+| ![Screenshot 5](SLIDE-5.jpg) | |
 
 ---
 
