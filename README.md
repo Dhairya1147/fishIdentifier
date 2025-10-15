@@ -121,26 +121,27 @@ AquaLensAI/
 └── src/
 └── main/
 ├── java/com/example/myapplication/
-│ ├── MainActivity.kt # Main activity with UI implementation
-│ ├── ObjectDetector.kt # TFLite model inference handling
-│ └── ui/theme/
-│ ├── Color.kt # Color definitions for the app
-│ ├── Theme.kt # App theme configurations
-│ └── Type.kt # Typography definitions
+│   ├── ui/
+│   │   └── theme/
+│   │       ├── Color.kt          # Color definitions for the app
+│   │       ├── Theme.kt          # App theme configurations
+│   │       └── Type.kt           # Typography definitions
+│   ├── MainActivity.kt           # Main UI, CameraX setup, and result display
+│   └── ObjectDetector.kt         # Handles TFLite model loading and inference
 │
 ├── assets/
-│ └── model.tflite # TensorFlow Lite model file
+│   └── model.tflite              # <-- PLACE YOUR TFLITE MODEL HERE
 │
 ├── res/
-│ ├── drawable/
-│ ├── mipmap/ # App icons
-│ ├── values/
-│ │ ├── colors.xml # Color resources
-│ │ ├── strings.xml # String resources
-│ │ └── themes.xml # Theme resources
-│ └── xml/
+│   ├── drawable/                 # Image and drawable resources
+│   ├── mipmap/                   # App icons for different densities
+│   ├── values/                   # XML files for colors, strings, themes
+│   │   ├── colors.xml
+│   │   ├── strings.xml
+│   │   └── themes.xml
+│   └── xml/                      # Miscellaneous XML resources
 │
-└── AndroidManifest.xml # App manifest file
+└── AndroidManifest.xml           # App manifest file
 
 ---
 
