@@ -10,6 +10,7 @@ An offline-first Android application that uses on-device AI to provide real-time
 
 - [Key Features](#-key-features)
 - [Unique Features](#-unique-features)
+- [App Preview](#-app-preview)
 - [Technology Stack](#-technology-stack)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
