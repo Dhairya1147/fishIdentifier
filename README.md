@@ -115,7 +115,7 @@ Follow these instructions to get the project up and running on your local machin
 ## 📂 Project Structure
 
 A brief overview of the key files and directories in this project.
-
+```
 AquaLensAI/
 └── app/
 └── src/
@@ -142,7 +142,7 @@ AquaLensAI/
 │   └── xml/                      # Miscellaneous XML resources
 │
 └── AndroidManifest.xml           # App manifest file
-
+```
 ---
 
 ## 🧠 AI/ML Models
