@@ -42,7 +42,7 @@ Here's a look at the AquaLens AI application in action.
 
 | **Intro Screen & Logo** | **Login Page** |
 | :-------------------------: | :------------------: |
-| ![Screenshot 1](SLIDE-1.jpg) | ![Screenshot 2](SLIDE-2.jpg) |
+| <img src="SLIDE-1.jpg" width="400"> | ![Screenshot 2](SLIDE-2.jpg) |
 | **Main Screen** | **Upload Image Screen** |
 | ![Screenshot 3](SLIDE-3.jpg) | ![Screenshot 4](SLIDE-4.jpg) |
 | **Fish/Species Info Screen** | **App Demo (GIF)** |
